@@ -9,3 +9,4 @@ G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse01\WindowsFormsEse01\obj\Debug\WindowsFormsEse01.exe
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse01\WindowsFormsEse01\obj\Debug\WindowsFormsEse01.pdb
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse01\WindowsFormsEse01\obj\Debug\WindowsFormsEse01.FormFiglia.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse01\WindowsFormsEse01\obj\Debug\WindowsFormsEse01.FormModale.resources

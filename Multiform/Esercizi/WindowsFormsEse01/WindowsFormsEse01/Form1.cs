@@ -36,5 +36,16 @@ namespace WindowsFormsEse01
             f2.Text = "Form 2 con passaggio di un TextBox";
             f2.Show();
         }
+
+        private void btnApriFormModale_Click(object sender, EventArgs e)
+        {
+            FormModale frm = new FormModale();
+            if (frm.ShowDialog() == DialogResult.OK)
+            {
+                //possiamo accedere alle variabili globali della form modale siccome le abbiamo messe in public
+                MessageBox.Show("Premuto pulsante OK!\n Nome:" + frm.nome + "Età: " + frm.età);
+            }
+            else MessageBox.Show("Premuto pulsante ANNULLA");
+        }
     }
 }

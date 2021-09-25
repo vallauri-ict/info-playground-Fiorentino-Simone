@@ -34,12 +34,18 @@ namespace WindowsFormsEse01
 
         private void BtnLeggiValoriDaTxt_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Il testo visualizzato da txtForm1: " + txt.Text);
+            if (txt==null)
+                MessageBox.Show("Non è stato passato l'oggetto del Txt");
+            else
+                MessageBox.Show("Il testo visualizzato da txtForm1: " + txt.Text);
         }
 
         private void btnInviaForm1_Click(object sender, EventArgs e)
         {
-            txt.Text = txtF2.Text;
+            if (txt == null)
+                MessageBox.Show("Non è stato passato l'oggetto del Txt");
+            else
+                txt.Text = txtF2.Text;
         }
 
         private void btnForm2ApriFiglia_Click(object sender, EventArgs e)

@@ -33,6 +33,7 @@
             this.txtFormDaPassare = new System.Windows.Forms.TextBox();
             this.btnForm2Controllo = new System.Windows.Forms.Button();
             this.lblTestoDaPassare = new System.Windows.Forms.Label();
+            this.btnApriFormModale = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpenForm2
@@ -80,11 +81,22 @@
             this.lblTestoDaPassare.TabIndex = 4;
             this.lblTestoDaPassare.Text = "INSERISCI UN TESTO DA PASSARE A FORM 2";
             // 
+            // btnApriFormModale
+            // 
+            this.btnApriFormModale.Location = new System.Drawing.Point(145, 200);
+            this.btnApriFormModale.Name = "btnApriFormModale";
+            this.btnApriFormModale.Size = new System.Drawing.Size(143, 79);
+            this.btnApriFormModale.TabIndex = 5;
+            this.btnApriFormModale.Text = "APRI FORM MODALE";
+            this.btnApriFormModale.UseVisualStyleBackColor = true;
+            this.btnApriFormModale.Click += new System.EventHandler(this.btnApriFormModale_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(444, 432);
+            this.Controls.Add(this.btnApriFormModale);
             this.Controls.Add(this.lblTestoDaPassare);
             this.Controls.Add(this.btnForm2Controllo);
             this.Controls.Add(this.txtFormDaPassare);
@@ -104,6 +116,7 @@
         private System.Windows.Forms.TextBox txtFormDaPassare;
         private System.Windows.Forms.Button btnForm2Controllo;
         private System.Windows.Forms.Label lblTestoDaPassare;
+        private System.Windows.Forms.Button btnApriFormModale;
     }
 }
 
