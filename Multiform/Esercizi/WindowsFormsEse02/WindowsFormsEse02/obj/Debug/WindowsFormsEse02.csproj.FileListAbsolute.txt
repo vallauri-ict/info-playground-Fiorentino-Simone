@@ -1,0 +1,12 @@
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.exe.config
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.exe
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.pdb
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.csprojAssemblyReference.cache
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormFiglia.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormFiglia2.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.frmPadre.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.Properties.Resources.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.csproj.GenerateResource.cache
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.exe
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.pdb
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormModaleEsci.resources
