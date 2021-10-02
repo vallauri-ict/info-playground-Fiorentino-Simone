@@ -68,5 +68,12 @@ namespace WindowsFormsEse02
             if (frm.ShowDialog() != DialogResult.OK)
                 e.Cancel = true; //controlla la chiusura e mette cancel a true quindi non viene chiuso
         }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            //creare Modale 
+            infoCreatore fr = new infoCreatore();
+            fr.ShowDialog();
+        }
     }
 }

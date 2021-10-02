@@ -70,6 +70,12 @@
     <Compile Include="frmPadre.Designer.cs">
       <DependentUpon>frmPadre.cs</DependentUpon>
     </Compile>
+    <Compile Include="infoCreatore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infoCreatore.Designer.cs">
+      <DependentUpon>infoCreatore.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormFiglia.resx">
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPadre.resx">
       <DependentUpon>frmPadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infoCreatore.resx">
+      <DependentUpon>infoCreatore.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

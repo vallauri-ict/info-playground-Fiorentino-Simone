@@ -10,3 +10,16 @@ G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.exe
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.pdb
 G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormModaleEsci.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\bin\Debug\WindowsFormsEse02.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormFiglia.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormFiglia2.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.FormModaleEsci.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.frmPadre.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.infoCreatore.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\WindowsFormsEse02\WindowsFormsEse02\obj\Debug\WindowsFormsEse02.pdb
