@@ -8,18 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsEse02
+namespace Esercitazione_Verifica
 {
-    public partial class FormModaleEsci : Form
+    public partial class FrmAvviso : Form
     {
-        public FormModaleEsci()
+        public FrmAvviso()
         {
             InitializeComponent();
         }
 
-        private void FormModaleEsci_Load(object sender, EventArgs e)
+        private void btnOk_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
     }
 }
