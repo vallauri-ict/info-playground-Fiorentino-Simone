@@ -1,0 +1,30 @@
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.exe.config
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.exe
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.pdb
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.AssemblyReference.cache
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FrmApri1.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.frmApri2.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.frmVerifica.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.Properties.Resources.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.GenerateResource.cache
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.CoreCompileInputs.cache
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.exe
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.pdb
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FrmAvviso.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FormModaleChiusura.resources
+G:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FormInformazioniAutore.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.exe.config
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.exe
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\bin\Debug\Esercitazione Verifica.pdb
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.AssemblyReference.cache
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FormInformazioniAutore.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FormModaleChiusura.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FrmApri1.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.frmApri2.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.FrmAvviso.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.frmVerifica.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione_Verifica.Properties.Resources.resources
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.GenerateResource.cache
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.csproj.CoreCompileInputs.cache
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.exe
+C:\Users\simof\Desktop\info-playground-Fiorentino-Simone\Multiform\Esercizi\Esercitazione Verifica\Esercitazione Verifica\obj\Debug\Esercitazione Verifica.pdb

@@ -1,0 +1,15 @@
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\bin\Debug\Verifica2021.exe.config
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\bin\Debug\Verifica2021.exe
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\bin\Debug\Verifica2021.pdb
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.csproj.AssemblyReference.cache
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormApri1.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.frmMain.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.Properties.Resources.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.csproj.GenerateResource.cache
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.csproj.CoreCompileInputs.cache
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.exe
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.pdb
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormModale.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.frmFinestra2.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormModaleChiusura.resources
+C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormInformazioniAutore.resources
