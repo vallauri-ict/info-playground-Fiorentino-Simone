@@ -13,3 +13,17 @@ C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.For
 C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.frmFinestra2.resources
 C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormModaleChiusura.resources
 C:\Users\simof\source\repos\Verifica2021\Verifica2021\obj\Debug\Verifica2021.FormInformazioniAutore.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\bin\Debug\Verifica2021.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\bin\Debug\Verifica2021.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\bin\Debug\Verifica2021.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.FormApri1.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.FormInformazioniAutore.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.FormModale.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.FormModaleChiusura.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.frmFinestra2.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Multiform\Esercizi\Ese04 Esercitazione verifica 2021\Verifica2021\obj\Debug\Verifica2021.pdb

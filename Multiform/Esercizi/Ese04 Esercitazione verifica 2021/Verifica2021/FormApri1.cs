@@ -42,6 +42,7 @@ namespace Verifica2021
             frm.Close();
             Button btn = (Button)sender;
             btn.Focus();
+            btn.BackColor = Color.Aquamarine;
 
             scelta = btn.Text;
             frmM = new FormModale();

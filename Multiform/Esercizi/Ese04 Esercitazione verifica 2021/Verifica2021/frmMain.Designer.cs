@@ -81,16 +81,14 @@ namespace Verifica2021
             // apri1ToolStripMenuItem
             // 
             this.apri1ToolStripMenuItem.Name = "apri1ToolStripMenuItem";
-            this.apri1ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.M)));
-            this.apri1ToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
+            this.apri1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.apri1ToolStripMenuItem.Text = "Apri &1";
             this.apri1ToolStripMenuItem.Click += new System.EventHandler(this.apri1ToolStripMenuItem_Click);
             // 
             // apri2ToolStripMenuItem
             // 
             this.apri2ToolStripMenuItem.Name = "apri2ToolStripMenuItem";
-            this.apri2ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.D1)));
-            this.apri2ToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
+            this.apri2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.apri2ToolStripMenuItem.Text = "Apri &2";
             this.apri2ToolStripMenuItem.Click += new System.EventHandler(this.apri2ToolStripMenuItem_Click);
             // 
@@ -98,7 +96,7 @@ namespace Verifica2021
             // 
             this.esciToolStripMenuItem.Name = "esciToolStripMenuItem";
             this.esciToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
-            this.esciToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
+            this.esciToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.esciToolStripMenuItem.Text = "&Esci ";
             this.esciToolStripMenuItem.Click += new System.EventHandler(this.esciToolStripMenuItem_Click);
             // 
