@@ -24,7 +24,7 @@ namespace Ese01_Introduzione_OOP
             
         } 
 
-        public Rectangle (int Base,int Altezza)
+        public Rectangle (int Base,int Altezza) //carica i rispettivi valori dentro i parametri 
         {
             sideAltezza = Altezza;
             sideBase = Base;
