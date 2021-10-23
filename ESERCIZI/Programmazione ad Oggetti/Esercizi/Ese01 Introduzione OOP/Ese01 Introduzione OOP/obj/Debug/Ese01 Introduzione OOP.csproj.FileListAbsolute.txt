@@ -1,0 +1,18 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01_Introduzione_OOP.frmOOP.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01_Introduzione_OOP.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\ESERCIZI\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.exe.config
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\bin\Debug\Ese01 Introduzione OOP.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.csprojAssemblyReference.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01_Introduzione_OOP.frmOOP.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01_Introduzione_OOP.Properties.Resources.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.csproj.GenerateResource.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese01 Introduzione OOP\Ese01 Introduzione OOP\obj\Debug\Ese01 Introduzione OOP.pdb
