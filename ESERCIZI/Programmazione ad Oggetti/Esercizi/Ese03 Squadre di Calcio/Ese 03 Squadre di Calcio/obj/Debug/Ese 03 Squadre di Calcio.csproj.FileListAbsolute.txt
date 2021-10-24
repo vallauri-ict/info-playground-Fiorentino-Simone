@@ -7,3 +7,13 @@ I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese 03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.csproj.GenerateResource.cache
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese 03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.exe
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese 03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\bin\Debug\Ese 03 Squadre di Calcio.exe.config
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\bin\Debug\Ese 03 Squadre di Calcio.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\bin\Debug\Ese 03 Squadre di Calcio.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.csproj.AssemblyReference.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese_03_Squadre_di_Calcio.frmSquadreCalcio.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese_03_Squadre_di_Calcio.Properties.Resources.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.csproj.GenerateResource.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.csproj.CoreCompileInputs.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese03 Squadre di Calcio\Ese 03 Squadre di Calcio\obj\Debug\Ese 03 Squadre di Calcio.pdb

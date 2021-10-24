@@ -19,10 +19,8 @@ namespace Ese_03_Squadre_di_Calcio
 
         private void frmSquadreCalcio_Load(object sender, EventArgs e)
         {
-            foreach (TextBox item in this.Controls)
-            {
-                item.ReadOnly = true;
-            }
+            Squadre sq = new Squadre();
         }
     }
 }
+ 
