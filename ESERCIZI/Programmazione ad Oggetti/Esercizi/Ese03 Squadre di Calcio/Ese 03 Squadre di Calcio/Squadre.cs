@@ -16,6 +16,9 @@ namespace Ese_03_Squadre_di_Calcio
         public int vinte;
         public int pareggiate;
 
+        private int myProperty;
+        private int myPropertyRO; //creo una variabile readonly, usando solo il get
+
 
         //2^ PUNTO: Definire un costruttore senza parametri che costruisce una squadra predefinita
         public Squadre()
@@ -30,11 +33,34 @@ namespace Ese_03_Squadre_di_Calcio
         //3^PUNTO: Definire un costruttore opportuno per inizializzare tutti gli attributi
         public Squadre(string nome, string città, int giocate, int vinte, int pareggiate)
         {
+            //in caso avessi il readonly (public readonly int) prima la vado a settare nel costruttore: es: myProperty=0;
             this.nome = nome;
             this.città = città;
             this.giocate = giocate;
             this.vinte = vinte;
             this.pareggiate = pareggiate;
+            myProperty = 0; //setta 
+            int valore = myProperty; //legge
+        }
+
+        public int MyProperty
+        {
+            get //leggere il valore
+            {
+                return myProperty;
+            }
+            set //settare il valore
+            {
+                myProperty = value; //il value è il valore della mia property
+            }
+        }
+
+        public int MyPropertyRO
+        {
+            get //leggere il valore
+            {
+                return myPropertyRO;
+            }
         }
     }
 }
