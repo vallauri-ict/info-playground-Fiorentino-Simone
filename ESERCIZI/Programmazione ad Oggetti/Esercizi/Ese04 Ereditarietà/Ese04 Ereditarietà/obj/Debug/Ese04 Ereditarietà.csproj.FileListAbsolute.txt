@@ -1,0 +1,4 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04 Ereditarietà.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04_Ereditarietà.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04_Ereditarietà.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04 Ereditarietà.csproj.GenerateResource.cache
