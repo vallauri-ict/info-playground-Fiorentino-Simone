@@ -136,6 +136,7 @@
             this.btnCreaC.TabIndex = 11;
             this.btnCreaC.Text = "CREA C";
             this.btnCreaC.UseVisualStyleBackColor = false;
+            this.btnCreaC.Click += new System.EventHandler(this.btnCreaC_Click);
             // 
             // btnCreaB
             // 
@@ -147,6 +148,7 @@
             this.btnCreaB.TabIndex = 18;
             this.btnCreaB.Text = "CREA B";
             this.btnCreaB.UseVisualStyleBackColor = false;
+            this.btnCreaB.Click += new System.EventHandler(this.btnCreaB_Click);
             // 
             // btnCreaA
             // 
@@ -158,6 +160,7 @@
             this.btnCreaA.TabIndex = 19;
             this.btnCreaA.Text = "CREA A";
             this.btnCreaA.UseVisualStyleBackColor = false;
+            this.btnCreaA.Click += new System.EventHandler(this.btnCreaA_Click);
             // 
             // btnVinceA
             // 
@@ -169,6 +172,7 @@
             this.btnVinceA.TabIndex = 22;
             this.btnVinceA.Text = "VINCE A ";
             this.btnVinceA.UseVisualStyleBackColor = false;
+            this.btnVinceA.Click += new System.EventHandler(this.btnVinceA_Click);
             // 
             // btnVinceB
             // 
@@ -180,6 +184,7 @@
             this.btnVinceB.TabIndex = 21;
             this.btnVinceB.Text = "VINCE B";
             this.btnVinceB.UseVisualStyleBackColor = false;
+            this.btnVinceB.Click += new System.EventHandler(this.btnVinceB_Click);
             // 
             // btnVinceC
             // 
@@ -191,6 +196,7 @@
             this.btnVinceC.TabIndex = 20;
             this.btnVinceC.Text = "VINCE C";
             this.btnVinceC.UseVisualStyleBackColor = false;
+            this.btnVinceC.Click += new System.EventHandler(this.btnVinceC_Click);
             // 
             // btnPareggiaA
             // 
@@ -202,6 +208,7 @@
             this.btnPareggiaA.TabIndex = 25;
             this.btnPareggiaA.Text = "A PAREGGIA";
             this.btnPareggiaA.UseVisualStyleBackColor = false;
+            this.btnPareggiaA.Click += new System.EventHandler(this.btnPareggiaA_Click);
             // 
             // btnPareggiaB
             // 
@@ -213,6 +220,7 @@
             this.btnPareggiaB.TabIndex = 24;
             this.btnPareggiaB.Text = "PAREGGIA B";
             this.btnPareggiaB.UseVisualStyleBackColor = false;
+            this.btnPareggiaB.Click += new System.EventHandler(this.btnPareggiaB_Click);
             // 
             // btnPareggiaC
             // 
@@ -224,6 +232,7 @@
             this.btnPareggiaC.TabIndex = 23;
             this.btnPareggiaC.Text = "PAREGGIA C";
             this.btnPareggiaC.UseVisualStyleBackColor = false;
+            this.btnPareggiaC.Click += new System.EventHandler(this.btnPareggiaC_Click);
             // 
             // frmSquadreCalcio
             // 
@@ -251,7 +260,6 @@
             this.Controls.Add(this.lblAtlante);
             this.Name = "frmSquadreCalcio";
             this.Text = "SQUADRE DI CALCIO";
-            this.Load += new System.EventHandler(this.frmSquadreCalcio_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
