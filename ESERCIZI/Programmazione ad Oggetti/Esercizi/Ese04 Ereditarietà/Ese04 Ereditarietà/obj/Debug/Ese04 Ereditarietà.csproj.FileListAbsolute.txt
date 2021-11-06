@@ -2,3 +2,8 @@ I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04_Ereditarietà.frmMain.resources
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04_Ereditarietà.Properties.Resources.resources
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04 Ereditarietà.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\bin\Debug\Ese04 Ereditarietà.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\bin\Debug\Ese04 Ereditarietà.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\bin\Debug\Ese04 Ereditarietà.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04 Ereditarietà.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese04 Ereditarietà\Ese04 Ereditarietà\obj\Debug\Ese04 Ereditarietà.pdb

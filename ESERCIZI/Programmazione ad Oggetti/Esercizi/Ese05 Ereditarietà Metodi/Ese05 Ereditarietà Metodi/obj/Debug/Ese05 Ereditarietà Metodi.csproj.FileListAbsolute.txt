@@ -1,0 +1,9 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05_Ereditarietà_Metodi.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05_Ereditarietà_Metodi.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.pdb
