@@ -1,0 +1,9 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\bin\Debug\Ese04 Coda ProntoSoccorso.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\bin\Debug\Ese04 Coda ProntoSoccorso.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\bin\Debug\Ese04 Coda ProntoSoccorso.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04 Coda ProntoSoccorso.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04_Coda_ProntoSoccorso.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04_Coda_ProntoSoccorso.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04 Coda ProntoSoccorso.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04 Coda ProntoSoccorso.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese04 Coda ProntoSoccorso\Ese04 Coda ProntoSoccorso\obj\Debug\Ese04 Coda ProntoSoccorso.pdb

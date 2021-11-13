@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ese03 Dictionary di un negozio", "Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio.csproj", "{13C6FA8D-D4C5-46C5-BDD6-9D0870CEB215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C6FA8D-D4C5-46C5-BDD6-9D0870CEB215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C6FA8D-D4C5-46C5-BDD6-9D0870CEB215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C6FA8D-D4C5-46C5-BDD6-9D0870CEB215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C6FA8D-D4C5-46C5-BDD6-9D0870CEB215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85809BE-71A8-4C42-8F6C-7A609320EC63}
+	EndGlobalSection
+EndGlobal
