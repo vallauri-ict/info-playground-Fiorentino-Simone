@@ -1,0 +1,9 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\bin\Debug\Ese02 Funzionamento Dizionari.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\bin\Debug\Ese02 Funzionamento Dizionari.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\bin\Debug\Ese02 Funzionamento Dizionari.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02 Funzionamento Dizionari.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02_Funzionamento_Dizionari.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02_Funzionamento_Dizionari.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02 Funzionamento Dizionari.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02 Funzionamento Dizionari.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese02 Funzionamento Dizionari\Ese02 Funzionamento Dizionari\obj\Debug\Ese02 Funzionamento Dizionari.pdb
