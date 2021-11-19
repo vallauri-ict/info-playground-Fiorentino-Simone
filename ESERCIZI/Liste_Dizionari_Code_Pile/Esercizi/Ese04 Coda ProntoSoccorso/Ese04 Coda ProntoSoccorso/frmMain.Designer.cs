@@ -38,6 +38,9 @@
             this.nupTemperatura = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.btnInserisciPaziente = new System.Windows.Forms.Button();
+            this.btnGestisciPazienti = new System.Windows.Forms.Button();
+            this.btnResocontoTemp = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.nupTemperatura)).BeginInit();
             this.SuspendLayout();
             // 
@@ -155,12 +158,48 @@
             this.label4.TabIndex = 11;
             this.label4.Text = "TEMPERATURA:";
             // 
+            // btnInserisciPaziente
+            // 
+            this.btnInserisciPaziente.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInserisciPaziente.Location = new System.Drawing.Point(48, 288);
+            this.btnInserisciPaziente.Name = "btnInserisciPaziente";
+            this.btnInserisciPaziente.Size = new System.Drawing.Size(128, 61);
+            this.btnInserisciPaziente.TabIndex = 12;
+            this.btnInserisciPaziente.Text = "INSERISCI PAZIENTE";
+            this.btnInserisciPaziente.UseVisualStyleBackColor = true;
+            this.btnInserisciPaziente.Click += new System.EventHandler(this.btnInserisciPaziente_Click);
+            // 
+            // btnGestisciPazienti
+            // 
+            this.btnGestisciPazienti.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGestisciPazienti.Location = new System.Drawing.Point(182, 288);
+            this.btnGestisciPazienti.Name = "btnGestisciPazienti";
+            this.btnGestisciPazienti.Size = new System.Drawing.Size(128, 61);
+            this.btnGestisciPazienti.TabIndex = 13;
+            this.btnGestisciPazienti.Text = "GESTISCI PAZIENTI";
+            this.btnGestisciPazienti.UseVisualStyleBackColor = true;
+            this.btnGestisciPazienti.Click += new System.EventHandler(this.btnGestisciPazienti_Click);
+            // 
+            // btnResocontoTemp
+            // 
+            this.btnResocontoTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnResocontoTemp.Location = new System.Drawing.Point(316, 288);
+            this.btnResocontoTemp.Name = "btnResocontoTemp";
+            this.btnResocontoTemp.Size = new System.Drawing.Size(145, 61);
+            this.btnResocontoTemp.TabIndex = 14;
+            this.btnResocontoTemp.Text = "RESOCONTO TEMPERATURE";
+            this.btnResocontoTemp.UseVisualStyleBackColor = true;
+            this.btnResocontoTemp.Click += new System.EventHandler(this.btnResocontoTemp_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(454, 246);
+            this.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.ClientSize = new System.Drawing.Size(504, 390);
+            this.Controls.Add(this.btnResocontoTemp);
+            this.Controls.Add(this.btnGestisciPazienti);
+            this.Controls.Add(this.btnInserisciPaziente);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.nupTemperatura);
             this.Controls.Add(this.txtEtà);
@@ -191,6 +230,9 @@
         private System.Windows.Forms.NumericUpDown nupTemperatura;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button btnInserisciPaziente;
+        private System.Windows.Forms.Button btnGestisciPazienti;
+        private System.Windows.Forms.Button btnResocontoTemp;
     }
 }
 
