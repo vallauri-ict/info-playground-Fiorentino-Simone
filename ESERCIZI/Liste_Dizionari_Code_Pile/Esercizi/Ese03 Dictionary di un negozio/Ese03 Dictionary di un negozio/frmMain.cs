@@ -44,9 +44,10 @@ namespace Ese03_Dictionary_di_un_negozio
 
         private void btnVisualizzaArticoli_Click(object sender, EventArgs e)
         {
+            lblRisultato.Text = "";
             foreach (Articolo arc in DictNegozio.Values)
             {
-                lblRisultato.Text += "\nChiave: "+arc.chiave+ "Titolo: "+arc.nome;
+                lblRisultato.Text += "\nChiave: "+arc.chiave+ "\nTitolo: "+arc.nome;
             }
         }
 

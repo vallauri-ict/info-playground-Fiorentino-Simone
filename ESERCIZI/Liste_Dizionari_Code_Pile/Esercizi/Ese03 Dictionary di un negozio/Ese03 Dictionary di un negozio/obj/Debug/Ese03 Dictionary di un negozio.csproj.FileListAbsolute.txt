@@ -7,3 +7,13 @@ I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\bin\Debug\Ese03 Dictionary di un negozio.pdb
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.exe
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\bin\Debug\Ese03 Dictionary di un negozio.exe.config
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\bin\Debug\Ese03 Dictionary di un negozio.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\bin\Debug\Ese03 Dictionary di un negozio.pdb
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.csproj.AssemblyReference.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03_Dictionary_di_un_negozio.frmMain.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03_Dictionary_di_un_negozio.Properties.Resources.resources
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.csproj.GenerateResource.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.csproj.CoreCompileInputs.cache
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.exe
+E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese03 Dictionary di un negozio\Ese03 Dictionary di un negozio\obj\Debug\Ese03 Dictionary di un negozio.pdb
