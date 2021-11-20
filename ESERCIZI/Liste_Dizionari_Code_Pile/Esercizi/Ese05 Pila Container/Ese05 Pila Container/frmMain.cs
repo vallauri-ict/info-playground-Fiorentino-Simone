@@ -31,7 +31,6 @@ namespace Ese05_Pila_Container
             if (txtPeso.Text=="" || txtTara.Text=="" || txtCodice.Text=="")
             {
                 MessageBox.Show("Campi non completati correttamente !!");
-                return;
             }
             else
             {
