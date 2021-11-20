@@ -1,0 +1,9 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\bin\Debug\Ese06 Operatore IS e AS.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\bin\Debug\Ese06 Operatore IS e AS.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\bin\Debug\Ese06 Operatore IS e AS.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06 Operatore IS e AS.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06_Operatore_IS_e_AS.Form1.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06_Operatore_IS_e_AS.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06 Operatore IS e AS.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06 Operatore IS e AS.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese06 Operatore IS e AS\Ese06 Operatore IS e AS\obj\Debug\Ese06 Operatore IS e AS.pdb
