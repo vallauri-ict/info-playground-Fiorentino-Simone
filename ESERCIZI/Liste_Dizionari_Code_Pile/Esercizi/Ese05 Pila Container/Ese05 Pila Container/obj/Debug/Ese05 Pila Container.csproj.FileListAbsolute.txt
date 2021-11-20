@@ -8,3 +8,12 @@ E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.csproj.CoreCompileInputs.cache
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.exe
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\bin\Debug\Ese05 Pila Container.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\bin\Debug\Ese05 Pila Container.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\bin\Debug\Ese05 Pila Container.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05_Pila_Container.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05_Pila_Container.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese05 Pila Container\Ese05 Pila Container\obj\Debug\Ese05 Pila Container.pdb

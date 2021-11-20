@@ -23,7 +23,7 @@ namespace Ese03_Dictionary_di_un_negozio
             public string nome;
             public string chiave;
         }
-        Dictionary<int, Articolo> DictNegozio = new Dictionary<int, Articolo>();
+        Dictionary<string, Articolo> DictNegozio = new Dictionary<string, Articolo>();
 
         private void btnInserisciArticolo_Click(object sender, EventArgs e)
         {
@@ -33,11 +33,11 @@ namespace Ese03_Dictionary_di_un_negozio
 
                 art.nome = txtNomeArticolo.Text;
                 art.chiave = txtKeyArticolo.Text;
-                DictNegozio.Add(Convert.ToInt32(txtKeyArticolo.Text), art);
+                DictNegozio.Add(art.chiave, art);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                MessageBox.Show("Chiave già presente, inserire un altra chiave!!");
+                MessageBox.Show("Messaggio di errore generato: "+ex.Message, "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             
         }
@@ -49,13 +49,14 @@ namespace Ese03_Dictionary_di_un_negozio
             {
                 lblRisultato.Text += "\nChiave: "+arc.chiave+ "\nTitolo: "+arc.nome;
             }
+            lblRisultato.Text += "\nCi sono: " + DictNegozio.Count + " elementi";
         }
 
         private void vbtnRicercaWithKey_Click(object sender, EventArgs e)
         {
             try
             {
-                Articolo art = DictNegozio[Convert.ToInt32(txtKeyArticolo.Text)];
+                Articolo art = DictNegozio[txtKeyArticolo.Text]; //inserisco tipo string siccome nella dichiarazione ho specificato tipologia string
                 lblRisultato.Text = art.chiave + " " + art.nome;
             }
             catch (Exception)
