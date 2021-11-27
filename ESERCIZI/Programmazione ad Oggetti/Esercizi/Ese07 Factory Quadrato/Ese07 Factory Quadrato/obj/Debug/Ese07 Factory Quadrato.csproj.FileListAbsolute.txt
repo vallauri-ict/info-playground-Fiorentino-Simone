@@ -1,0 +1,9 @@
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\bin\Debug\Ese07 Factory Quadrato.exe.config
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\bin\Debug\Ese07 Factory Quadrato.exe
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\bin\Debug\Ese07 Factory Quadrato.pdb
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07 Factory Quadrato.csprojAssemblyReference.cache
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07_Factory_Quadrato.frmMain.resources
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07_Factory_Quadrato.Properties.Resources.resources
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07 Factory Quadrato.csproj.GenerateResource.cache
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07 Factory Quadrato.exe
+J:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese07 Factory Quadrato\Ese07 Factory Quadrato\obj\Debug\Ese07 Factory Quadrato.pdb

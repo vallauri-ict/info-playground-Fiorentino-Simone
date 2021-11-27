@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ese07 Factory Quadrato", "Ese07 Factory Quadrato\Ese07 Factory Quadrato.csproj", "{B72B3907-BBE6-4E6C-A0CA-1C054F3F305E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72B3907-BBE6-4E6C-A0CA-1C054F3F305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B3907-BBE6-4E6C-A0CA-1C054F3F305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72B3907-BBE6-4E6C-A0CA-1C054F3F305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72B3907-BBE6-4E6C-A0CA-1C054F3F305E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6A4ADB-AB09-4FEA-96D9-9F0DF0283E12}
+	EndGlobalSection
+EndGlobal
