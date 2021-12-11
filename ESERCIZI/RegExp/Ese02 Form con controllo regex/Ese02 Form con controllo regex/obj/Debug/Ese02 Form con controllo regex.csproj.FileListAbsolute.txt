@@ -1,0 +1,9 @@
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.exe.config
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.pdb
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csprojAssemblyReference.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02_Form_con_controllo_regex.frmMain.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02_Form_con_controllo_regex.Properties.Resources.resources
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csproj.GenerateResource.cache
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.exe
+I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.pdb
