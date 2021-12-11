@@ -44,5 +44,29 @@ namespace Ese01_RegExp
                 m=m.NextMatch(); //successivo match
             }
         }
+
+        private void btnSplit_Click(object sender, EventArgs e)
+        {
+            string str = "123ABCDE456FGHIJKL789MNOPQ012";
+            string pattern = @"\d+";
+
+            Regex regex = new Regex(pattern);
+            string[] result = regex.Split(str);
+            for (int i = 0; i < result.Length; i++)
+            {
+                MessageBox.Show("Stringa "+(i+1)+ ": \n"+result[i]+"\n");
+            }
+        }
+
+        private void btnReplace_Click(object sender, EventArgs e)
+        {
+            string input = lblReplace.Text;
+            string pattern = @"\s+"; //uguale ad usare \\s+
+            string replacement = " ";
+            Regex rgx = new Regex(pattern);
+            string result = rgx.Replace(input, replacement);
+            MessageBox.Show("Original String: "+ input);
+            MessageBox.Show("Replacement String: "+ result);
+        }
     }
 }
