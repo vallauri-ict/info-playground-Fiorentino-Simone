@@ -17,3 +17,13 @@ E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con con
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csproj.CoreCompileInputs.cache
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.exe
 E:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\bin\Debug\Ese02 Form con controllo regex.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02_Form_con_controllo_regex.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02_Form_con_controllo_regex.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\RegExp\Esercizi\Ese02 Form con controllo regex\Ese02 Form con controllo regex\obj\Debug\Ese02 Form con controllo regex.pdb

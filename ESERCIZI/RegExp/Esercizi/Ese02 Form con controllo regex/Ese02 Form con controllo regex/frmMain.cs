@@ -26,6 +26,8 @@ namespace Ese02_Form_con_controllo_regex
             gbForm.Visible = false;
             btnAvviaForm.Location = new Point (300, 210);
             btnAvviaForm.Visible = true;
+
+            
         }
 
         private void avviaForm_Click(object sender, EventArgs e)
@@ -37,6 +39,27 @@ namespace Ese02_Form_con_controllo_regex
             /*VISIBLE: */
             lblTitolo.Visible = true;
             gbForm.Visible = true;
+
+
+            //NON CORRETTO
+
+            /*foreach (var item in this.Controls)
+            {
+                if (item is TextBox)
+                {
+                    TextBox txt =  (TextBox)item;
+                    txt.BackColor = "prova";
+                }
+            }
+
+
+            foreach (Control item in this.Controls)
+            {
+                if (item is TextBox)
+                {
+                    (item as TextBox).BackColor = Color.Red;
+                }
+            }*/
         }
 
 
@@ -73,10 +96,10 @@ namespace Ese02_Form_con_controllo_regex
             }
         }
 
-        private void txtEtà_TextChanged(object sender, EventArgs e) //NON CORRETTA, sicome va fino a 100 massimo
+        private void txtEtà_TextChanged(object sender, EventArgs e) //CORRETTA
         {
             string content = txtEtà.Text;
-            Regex rgx = new Regex(@"^([0-9]|[1-9][0-9]|100)$");
+            Regex rgx = new Regex(@"^([1-9]{0,1}[0-9]|^1[0-1][0-9])$");
             if (rgx.IsMatch(content))
             {
                 txtEtà.BackColor = Color.Green;
@@ -108,7 +131,7 @@ namespace Ese02_Form_con_controllo_regex
         private void txtCittà_TextChanged(object sender, EventArgs e) //CORRETTA
         {
             string content = txtCittà.Text;
-            Regex rgx = new Regex(@"^[a-zA-Z]{3,} [a-zA-Z]{2}$");
+            Regex rgx = new Regex(@"^[a-zA-Z]{3,}\s\([a-zA-Z]{2}\)$");
             if (rgx.IsMatch(content))
             {
                 txtCittà.BackColor = Color.Green;
@@ -121,7 +144,7 @@ namespace Ese02_Form_con_controllo_regex
             }
         }
 
-        private void txtMail_TextChanged(object sender, EventArgs e) //CORRETTA
+        private void txtMail_TextChanged(object sender, EventArgs e) //CORRETTA, ma NON bisogna lasciare spazi tra una mail e un altra 
         {
             string content = txtMail.Text;
             Regex rgx = new Regex(@"^(\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)(,\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*$");
@@ -173,7 +196,8 @@ namespace Ese02_Form_con_controllo_regex
         private void txtPwd_TextChanged(object sender, EventArgs e) //NON CORRETTA
         {
             string content = txtPwd.Text;
-            Regex rgx = new Regex(@"^(?=.*[A-Za-z])(?=.*\d)(?=.*[!-+])([A-Za-z\d!-+]{1,}){8,15}$");
+            // REGEX NON CORRETTA: Regex rgx = new Regex(@"^(?=.*[A-Za-z])(?=.*\d)(?=.*[!-+])([A-Za-z\d!-+]{1,}){8,15}$");
+            Regex rgx = new Regex(@"^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$");
             if (rgx.IsMatch(content))
             {
                 txtPwd.BackColor = Color.Green;
