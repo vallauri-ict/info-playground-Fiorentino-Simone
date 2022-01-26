@@ -46,4 +46,3 @@ namespace Ese01_Liste_Funzionamento
     }
 
 }
-}

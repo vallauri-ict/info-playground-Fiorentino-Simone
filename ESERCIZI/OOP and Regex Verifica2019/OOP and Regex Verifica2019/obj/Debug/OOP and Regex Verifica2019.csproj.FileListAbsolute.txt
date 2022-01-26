@@ -1,0 +1,10 @@
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\bin\Debug\OOP and Regex Verifica2019.exe.config
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\bin\Debug\OOP and Regex Verifica2019.exe
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\bin\Debug\OOP and Regex Verifica2019.pdb
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP and Regex Verifica2019.csproj.AssemblyReference.cache
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP_and_Regex_Verifica2019.frmMain.resources
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP_and_Regex_Verifica2019.Properties.Resources.resources
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP and Regex Verifica2019.csproj.GenerateResource.cache
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP and Regex Verifica2019.csproj.CoreCompileInputs.cache
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP and Regex Verifica2019.exe
+C:\Users\simof\OneDrive\Desktop\OOP and Regex Verifica2019\OOP and Regex Verifica2019\obj\Debug\OOP and Regex Verifica2019.pdb

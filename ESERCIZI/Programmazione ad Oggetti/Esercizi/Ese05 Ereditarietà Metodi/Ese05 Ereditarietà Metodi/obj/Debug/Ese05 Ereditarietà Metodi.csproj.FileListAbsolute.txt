@@ -7,3 +7,13 @@ I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csproj.GenerateResource.cache
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.exe
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\bin\Debug\Ese05 Ereditarietà Metodi.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05_Ereditarietà_Metodi.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05_Ereditarietà_Metodi.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese05 Ereditarietà Metodi\Ese05 Ereditarietà Metodi\obj\Debug\Ese05 Ereditarietà Metodi.pdb

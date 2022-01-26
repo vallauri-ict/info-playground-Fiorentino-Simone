@@ -7,3 +7,13 @@ I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.csproj.GenerateResource.cache
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.exe
 I:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\bin\Debug\Ese02 Controllo compatibilità.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\bin\Debug\Ese02 Controllo compatibilità.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\bin\Debug\Ese02 Controllo compatibilità.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02_Controllo_compatibilità.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02_Controllo_compatibilità.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese02 Controllo compatibilità\Ese02 Controllo compatibilità\obj\Debug\Ese02 Controllo compatibilità.pdb

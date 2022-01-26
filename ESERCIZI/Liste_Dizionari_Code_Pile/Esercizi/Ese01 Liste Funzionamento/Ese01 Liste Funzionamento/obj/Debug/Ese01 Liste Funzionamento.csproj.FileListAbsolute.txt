@@ -1,0 +1,10 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01 Liste Funzionamento.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01_Liste_Funzionamento.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01_Liste_Funzionamento.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01 Liste Funzionamento.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01 Liste Funzionamento.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\bin\Debug\Ese01 Liste Funzionamento.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\bin\Debug\Ese01 Liste Funzionamento.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\bin\Debug\Ese01 Liste Funzionamento.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01 Liste Funzionamento.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Liste_Dizionari_Code_Pile\Esercizi\Ese01 Liste Funzionamento\Ese01 Liste Funzionamento\obj\Debug\Ese01 Liste Funzionamento.pdb

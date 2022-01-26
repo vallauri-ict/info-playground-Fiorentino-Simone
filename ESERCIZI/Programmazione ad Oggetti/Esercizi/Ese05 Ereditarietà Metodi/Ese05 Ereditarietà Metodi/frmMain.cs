@@ -38,7 +38,7 @@ namespace Ese05_Ereditarietà_Metodi
         private void btnSpettro_Click(object sender, EventArgs e)
         {
             Spettro s = new Spettro();
-            MessageBox.Show("Spettro: --> Punti: " + s.Valore().ToString() + "\n");
+            MessageBox.Show("Spettro: --> Punti: " + s.Valore().ToString() + "\n" +"verso: "+s.Verso());
 
             Spettro s2 = new Spettro(50);
             MessageBox.Show("Spettro: --> Punti: " + s2.Valore().ToString() + "\n");
