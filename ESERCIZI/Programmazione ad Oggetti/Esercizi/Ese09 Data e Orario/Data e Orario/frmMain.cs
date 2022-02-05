@@ -76,16 +76,14 @@ namespace Data_e_Orario
             string output = inserimentoGiornoMeseAnno();
             string[] val = new string[3];
             val = output.Split(':');
-            MessageBox.Show("DATA: " + dt.Leggi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2])));
+            dt.Leggi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2]));
         }
 
         private void btnScriviData_Click(object sender, EventArgs e)
         {
-            if (dt == null) dt = new Data();
-            string output = inserimentoGiornoMeseAnno();
-            string[] val = new string[3];
-            val = output.Split(':');
-            MessageBox.Show("DATA: " + dt.Scrivi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2])));
+            int giorno=0, mese = 0, anno=0;
+            dt.Scrivi(ref giorno, ref mese, ref anno);
+            MessageBox.Show("Data con giorni: "+giorno+"/"+mese+"/"+anno);
         }
 
         private void btnDomani_Click(object sender, EventArgs e)
@@ -251,26 +249,15 @@ namespace Data_e_Orario
             string output = inserimentoOra();
             string[] val = new string[3];
             val = output.Split(':');
-
-            string outputData = inserimentoGiornoMeseAnno();
-            string[] valData = new string[3];
-            valData = outputData.Split(':');
-            MessageBox.Show("DATA E ORA: " + dtOra.Leggi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2]),
-                    Convert.ToInt32(valData[0]), Convert.ToInt32(valData[1]), Convert.ToInt32(valData[2])));
+            dtOra.Leggi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2]));
         }
 
         private void btnScriviDataEOra_Click(object sender, EventArgs e)
         {
             if (dtOra == null) dtOra = new DataOra();
-            string output = inserimentoOra();
-            string[] val = new string[3];
-            val = output.Split(':');
-
-            string outputData = inserimentoGiornoMeseAnno();
-            string[] valData = new string[3];
-            valData = outputData.Split(':');
-            MessageBox.Show("DATA E ORA: " + dtOra.Scrivi(Convert.ToInt32(val[0]), Convert.ToInt32(val[1]), Convert.ToInt32(val[2]),
-                    Convert.ToInt32(valData[0]), Convert.ToInt32(valData[1]), Convert.ToInt32(valData[2])));
+            int ore = 0, minuti = 0, secondi = 0;
+            dtOra.Scrivi(ref ore, ref minuti, ref secondi);
+            MessageBox.Show("Data con orario: " + ore + ":" + minuti + ":" + secondi);
         }
         #endregion
     }

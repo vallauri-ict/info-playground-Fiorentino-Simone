@@ -22,16 +22,14 @@ namespace Data_e_Orario
             secondi = 0;
         }
 
-        public DataOra(int ore, int minuti, int secondi)
+        public DataOra(int giorno, int mese, int anno)
         {
-            this.ore = ore;
-            this.minuti = minuti;
-            this.secondi = secondi;
+            base.Leggi(giorno,mese,anno);
         }
 
         public DataOra(int giorno, int mese, int anno, int ore, int minuti, int secondi)
         {
-            Data dt=new Data(giorno,mese,anno);
+            base.Leggi(giorno, mese, anno);
             this.ore=ore;
             this.minuti = minuti;
             this.secondi = secondi;
@@ -45,15 +43,20 @@ namespace Data_e_Orario
             return base.ToString()+" --- "+(ore) + ":" + (minuti) + ":" + (secondi);
         }
         
-        public virtual string Leggi(int giorno, int mese, int anno, int ore, int minuti, int secondi)
+        public override void Leggi(int ore, int minuti, int secondi) //la differenza tra override e new è che quando io inserisco delle instanze in una lista e poi voglio usare questo metodo, con il new riprende quello del padre (senza il cast) senno prende l'override
         {
-            return Leggi(giorno,mese,anno)+" --- "+ore + ":" + minuti + ":" + secondi;
+            //SET 
+            this.ore = ore;
+            this.minuti = minuti;
+            this.secondi = secondi;
         }
 
-        public virtual string Scrivi(int giorno, int mese, int anno, int ore, int minuti, int secondi)
+        public override void Scrivi(ref int ore,ref int minuti,ref int secondi)
         {
-            string data = Scrivi(giorno, mese, anno);
-            return data+" ----- "+this.ore + ":" + this.minuti + ":" + this.secondi;
+            //GET
+            ore = this.ore;
+            minuti = this.minuti;
+            secondi = this.secondi;
         }
         #endregion
     }

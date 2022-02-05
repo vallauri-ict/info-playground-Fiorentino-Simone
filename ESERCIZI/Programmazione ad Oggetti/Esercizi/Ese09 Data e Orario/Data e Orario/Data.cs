@@ -73,6 +73,8 @@ namespace Data_e_Orario
             }
             else bisestile = false;
             return bisestile;
+
+            //return DateTime.IsLeapYear(anno);--> ci dice se è bisestile
         }
 
 
@@ -93,21 +95,32 @@ namespace Data_e_Orario
             return bisestile;
         }
 
-        public virtual string Leggi(int a,int b, int c)
+        public virtual void Leggi(int giorno,int mese, int anno)
         {
-            return a.ToString() + "/" + b.ToString() + "/" + c.ToString();
+            //SET 
+            this.giorno = giorno;
+            this.mese = mese;
+            this.anno = anno;
         }
 
-        public virtual string Scrivi(int giorno, int mese, int anno)
+        public virtual void Scrivi(ref int giorno, ref int mese, ref int anno)
         {
-            this.giorno=giorno; 
-            this.mese=mese;
-            this.anno=anno;
-            return this.giorno.ToString()+"/"+this.mese.ToString()+"/"+this.anno.ToString();
+            //GET
+            giorno=this.giorno; 
+            mese=this.mese;
+            anno=this.anno;
         }
 
         public virtual void Domani()
         {
+            DateTime dt = new DateTime(anno,mese,giorno);
+            dt=dt.AddDays(1);
+            anno = dt.Year;
+            mese = dt.Month;
+            giorno=dt.Day;
+
+            //si poteva usare anche:
+            /*
             if (mesi31.Contains(this.mese)) //vuol dire che è di 31 giorni
                 incrementaGiorno(31);
             else //vuol dire che è di 30 o 28
@@ -121,17 +134,28 @@ namespace Data_e_Orario
                 }
                 else //vuol dire che è di 30
                     incrementaGiorno(30);
-            }
+            }*/
+
         }
 
         public virtual void Ieri()
         {
-            decrementaGiorno();
+            //decrementaGiorno();
+            DateTime dt = new DateTime(anno, mese, giorno);
+            dt = dt.Subtract(TimeSpan.FromDays(1));
+            anno = dt.Year;
+            mese = dt.Month;
+            giorno = dt.Day;
         }
 
         public virtual string Giorno()
         {
-            string giornoLetterale = "";
+            DateTime dt = new DateTime(anno, mese, this.giorno);
+            string gg;
+            gg = dt.ToString("dddd");
+            return gg; 
+
+            /*string giornoLetterale = "";
             string an = anno.ToString();
             an=an.Substring(2, 2);
             int aa = Convert.ToInt32(an);
@@ -169,11 +193,11 @@ namespace Data_e_Orario
                     giornoLetterale = "Sabato";
                     break;
             }
-            return giornoLetterale;
+            return giornoLetterale;*/
         }
         #endregion
 
-        #region METODI SUPPORT PRIVATE
+        /*#region METODI SUPPORT PRIVATE
         private void decrementaGiorno()
         {
             if (this.giorno <= 1 && this.mese!=1)
@@ -235,6 +259,6 @@ namespace Data_e_Orario
             else
                 this.giorno++;
         }
-        #endregion
+        #endregion*/
     }
 }
