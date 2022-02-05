@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08_Recipiente.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08_Recipiente.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\bin\Debug\Ese08 Recipiente.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\bin\Debug\Ese08 Recipiente.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\bin\Debug\Ese08 Recipiente.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese08 Recipiente\Ese08 Recipiente\obj\Debug\Ese08 Recipiente.pdb
