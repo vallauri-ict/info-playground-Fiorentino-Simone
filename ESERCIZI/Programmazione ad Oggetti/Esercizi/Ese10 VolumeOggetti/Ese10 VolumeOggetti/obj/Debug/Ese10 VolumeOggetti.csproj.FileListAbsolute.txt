@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\bin\Debug\Ese10 VolumeOggetti.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\bin\Debug\Ese10 VolumeOggetti.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\bin\Debug\Ese10 VolumeOggetti.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10_VolumeOggetti.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10_VolumeOggetti.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese10 VolumeOggetti\Ese10 VolumeOggetti\obj\Debug\Ese10 VolumeOggetti.pdb
