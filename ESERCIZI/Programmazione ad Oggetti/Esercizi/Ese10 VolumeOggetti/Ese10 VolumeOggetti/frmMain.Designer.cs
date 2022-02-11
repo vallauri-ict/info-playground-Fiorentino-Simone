@@ -40,8 +40,8 @@
             this.btnVolumeCilindro = new System.Windows.Forms.Button();
             this.gbCilindro = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnAreaParallelepipedo = new System.Windows.Forms.Button();
+            this.btnVolumeParallelepipedo = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.gbCilindro.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -148,8 +148,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.button2);
+            this.groupBox1.Controls.Add(this.btnAreaParallelepipedo);
+            this.groupBox1.Controls.Add(this.btnVolumeParallelepipedo);
             this.groupBox1.Location = new System.Drawing.Point(475, 271);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(380, 135);
@@ -157,23 +157,25 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "PARALLELEPIPEDO";
             // 
-            // button1
+            // btnAreaParallelepipedo
             // 
-            this.button1.Location = new System.Drawing.Point(19, 21);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(156, 97);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "AREA PARALLELEPIPEDO";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnAreaParallelepipedo.Location = new System.Drawing.Point(19, 21);
+            this.btnAreaParallelepipedo.Name = "btnAreaParallelepipedo";
+            this.btnAreaParallelepipedo.Size = new System.Drawing.Size(156, 97);
+            this.btnAreaParallelepipedo.TabIndex = 8;
+            this.btnAreaParallelepipedo.Text = "AREA PARALLELEPIPEDO";
+            this.btnAreaParallelepipedo.UseVisualStyleBackColor = true;
+            this.btnAreaParallelepipedo.Click += new System.EventHandler(this.btnAreaParallelepipedo_Click);
             // 
-            // button2
+            // btnVolumeParallelepipedo
             // 
-            this.button2.Location = new System.Drawing.Point(190, 21);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(156, 97);
-            this.button2.TabIndex = 9;
-            this.button2.Text = "VOLUME PARALLELEPIPEDO";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnVolumeParallelepipedo.Location = new System.Drawing.Point(190, 21);
+            this.btnVolumeParallelepipedo.Name = "btnVolumeParallelepipedo";
+            this.btnVolumeParallelepipedo.Size = new System.Drawing.Size(156, 97);
+            this.btnVolumeParallelepipedo.TabIndex = 9;
+            this.btnVolumeParallelepipedo.Text = "VOLUME PARALLELEPIPEDO";
+            this.btnVolumeParallelepipedo.UseVisualStyleBackColor = true;
+            this.btnVolumeParallelepipedo.Click += new System.EventHandler(this.btnVolumeParallelepipedo_Click);
             // 
             // label5
             // 
@@ -224,8 +226,8 @@
         private System.Windows.Forms.Button btnVolumeCilindro;
         private System.Windows.Forms.GroupBox gbCilindro;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnAreaParallelepipedo;
+        private System.Windows.Forms.Button btnVolumeParallelepipedo;
         private System.Windows.Forms.Label label5;
     }
 }

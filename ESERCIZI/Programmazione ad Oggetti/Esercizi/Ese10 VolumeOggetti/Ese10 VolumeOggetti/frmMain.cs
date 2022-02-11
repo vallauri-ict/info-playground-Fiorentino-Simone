@@ -16,18 +16,66 @@ namespace Ese10_VolumeOggetti
         {
             InitializeComponent();
         }
+        #region VARIABILI
 
         Cilindro cilindro;
+        Parallelepipedo parallelepipedo;
 
+        #endregion
+
+        #region METODI CILINDRO
         private void btnAreaCilindro_Click(object sender, EventArgs e)
         {
-            cilindro = new Cilindro(Convert.ToInt32(txtRaggio.Text),Convert.ToInt32(txtAltezza.Text));
-            MessageBox.Show(cilindro.StampaArea());
+            try
+            {
+                cilindro = new Cilindro(Convert.ToInt32(txtRaggio.Text), Convert.ToInt32(txtAltezza.Text));
+                MessageBox.Show(cilindro.StampaArea());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errore nella creazione e richiesta dell'area, messaggio: "+ex.Message);
+            }
+            
         }
 
         private void btnVolumeCilindro_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(cilindro.StampaVolume());
+            try
+            {
+                MessageBox.Show(cilindro.StampaVolume());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errore nella creazione e richiesta dell'area, messaggio: " + ex.Message);
+            }
         }
+        #endregion
+
+        #region METODI PARALLELEPIPEDO
+        private void btnAreaParallelepipedo_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                parallelepipedo = new Parallelepipedo(Convert.ToInt32(txtLato1.Text), Convert.ToInt32(txtLato2.Text), Convert.ToInt32(txtAltezza.Text));
+                MessageBox.Show(parallelepipedo.StampaArea());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errore nella creazione e richiesta dell'area, messaggio: " + ex.Message);
+            }
+        }
+
+        private void btnVolumeParallelepipedo_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                MessageBox.Show(parallelepipedo.StampaVolume());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errore nella creazione e richiesta dell'area, messaggio: " + ex.Message);
+            }
+        }
+        #endregion
     }
 }

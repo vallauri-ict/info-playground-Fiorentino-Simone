@@ -8,7 +8,10 @@ namespace Ese10_VolumeOggetti
 {
     internal class Parallelepipedo : Figura
     {
+
         private int lato1,lato2;
+        
+        #region COSTRUTTORI
         public Parallelepipedo()
         {
 
@@ -20,10 +23,13 @@ namespace Ese10_VolumeOggetti
             this.lato2 = lato2;
             base.altezza = altezza;
         }
+        #endregion
 
+        #region METODI
         protected override double Area()
         {
             return lato1 * lato2;            
         }
+        #endregion
     }
 }

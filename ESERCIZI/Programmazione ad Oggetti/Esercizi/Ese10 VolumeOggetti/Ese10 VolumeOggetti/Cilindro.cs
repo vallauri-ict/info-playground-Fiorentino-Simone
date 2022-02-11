@@ -10,6 +10,7 @@ namespace Ese10_VolumeOggetti
     {
         private int raggio;
 
+        #region COSTRUTTORI
         public Cilindro()
         {
 
@@ -20,10 +21,13 @@ namespace Ese10_VolumeOggetti
             this.raggio = raggio;
             base.altezza = altezza;
         }
+        #endregion
 
+        #region METODI
         protected override double Area()
         {
             return Math.Pow(raggio, 2) * Math.PI;
         }
+        #endregion
     }
 }
