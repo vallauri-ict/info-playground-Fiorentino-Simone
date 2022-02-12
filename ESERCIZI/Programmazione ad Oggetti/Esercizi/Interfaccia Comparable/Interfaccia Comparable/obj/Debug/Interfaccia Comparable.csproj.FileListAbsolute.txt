@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\bin\Debug\Interfaccia Comparable.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\bin\Debug\Interfaccia Comparable.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\bin\Debug\Interfaccia Comparable.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia_Comparable.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia_Comparable.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Interfaccia Comparable\Interfaccia Comparable\obj\Debug\Interfaccia Comparable.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbd8746a-2728-4692-aed6-c993b3c65b63": {
+      "ProjectGuid": "bbd8746a-2728-4692-aed6-c993b3c65b63",
+      "DisplayName": "Lancio Dado",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

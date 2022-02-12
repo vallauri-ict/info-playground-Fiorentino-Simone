@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio_Dado.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio_Dado.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\bin\Debug\Lancio Dado.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\bin\Debug\Lancio Dado.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\bin\Debug\Lancio Dado.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Lancio Dado\Lancio Dado\obj\Debug\Lancio Dado.pdb
