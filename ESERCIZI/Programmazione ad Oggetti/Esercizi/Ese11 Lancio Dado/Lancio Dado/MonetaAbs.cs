@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Lancio_Dado
 {
-    internal class DadoAbs : OggettoLanciato
+    internal class MonetaAbs : OggettoLanciato
     {
         Random random = new Random();
-        public DadoAbs()
+        public MonetaAbs()
         {
-            x = 1;
+            x = 0;
         }
 
-        protected override void Lancia()
+        public override void Lancia()
         {
-            x = random.Next(6) + 1;
+            x = random.Next(0, 2) + 1;
         }
     }
 }

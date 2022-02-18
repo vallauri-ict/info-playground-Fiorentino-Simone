@@ -44,7 +44,8 @@ namespace Lancio_Dado
         {
             MonetaAbs mAbs = new MonetaAbs();
             mAbs.Lancia();
-            MessageBox.Show("Lancio della moneta, astratto: " + mAbs.X);
+            string msg = mAbs.X == 0 ? "Testa" : "Croce";
+            MessageBox.Show("Lancio della moneta, astratto: " + msg);
         }
         #endregion
     }

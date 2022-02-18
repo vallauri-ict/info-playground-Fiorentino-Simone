@@ -25,7 +25,7 @@ namespace Lancio_Dado
 
         public void Lancia()
         {
-            rnd.Next(0, 1)+1; //0 --> testa; 1--> croce
+            v = rnd.Next(0, 1)+1; //0 --> testa; 1--> croce
         }
     }
 }
