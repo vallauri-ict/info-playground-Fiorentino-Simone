@@ -1,0 +1,9 @@
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\bin\Debug\Gioco interfacce.exe.config
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\bin\Debug\Gioco interfacce.exe
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\bin\Debug\Gioco interfacce.pdb
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco interfacce.csprojAssemblyReference.cache
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco_interfacce.Form1.resources
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco_interfacce.Properties.Resources.resources
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco interfacce.csproj.GenerateResource.cache
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco interfacce.exe
+C:\Users\p.barbero.1701\Desktop\Info teoria\Programmazione ad oggetti\Gioco interfacce\Gioco interfacce\obj\Debug\Gioco interfacce.pdb

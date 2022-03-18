@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\bin\Debug\InterfacciaStrumenti.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\bin\Debug\InterfacciaStrumenti.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\bin\Debug\InterfacciaStrumenti.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\InterfacciaStrumenti\InterfacciaStrumenti\obj\Debug\InterfacciaStrumenti.pdb

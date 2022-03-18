@@ -1,0 +1,11 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\bin\Debug\Ese15 Deposito Contenitori.exe.config
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\bin\Debug\Ese15 Deposito Contenitori.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\bin\Debug\Ese15 Deposito Contenitori.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.csproj.SuggestedBindingRedirects.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15_Deposito_Contenitori.frmMain.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15_Deposito_Contenitori.Properties.Resources.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.exe
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\Programmazione ad Oggetti\Esercizi\Ese15 Deposito Contenitori\Ese15 Deposito Contenitori\obj\Debug\Ese15 Deposito Contenitori.pdb
