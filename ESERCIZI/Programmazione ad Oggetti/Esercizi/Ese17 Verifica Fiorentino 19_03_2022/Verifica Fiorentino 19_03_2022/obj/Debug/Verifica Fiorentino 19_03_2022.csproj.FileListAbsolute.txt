@@ -1,0 +1,11 @@
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\bin\Debug\Verifica Fiorentino 19_03_2022.exe.config
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\bin\Debug\Verifica Fiorentino 19_03_2022.exe
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\bin\Debug\Verifica Fiorentino 19_03_2022.pdb
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.csproj.AssemblyReference.cache
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica_Fiorentino_19_03_2022.frmMain.resources
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica_Fiorentino_19_03_2022.Properties.Resources.resources
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.csproj.GenerateResource.cache
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.csproj.CoreCompileInputs.cache
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.exe
+C:\Users\simof\OneDrive\Desktop\Verifica Fiorentino 19_03_2022\Verifica Fiorentino 19_03_2022\obj\Debug\Verifica Fiorentino 19_03_2022.pdb
