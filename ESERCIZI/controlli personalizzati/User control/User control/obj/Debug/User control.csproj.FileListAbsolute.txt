@@ -1,0 +1,8 @@
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\bin\Debug\User control.dll
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\bin\Debug\User control.pdb
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User control.csproj.AssemblyReference.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User_control.UserControl1.resources
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User control.csproj.GenerateResource.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User control.csproj.CoreCompileInputs.cache
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User control.dll
+D:\SUPERIORI\4_SUPERIORE\INFORMATICA\ESERCIZI\ESERCIZI\controlli personalizzati\User control\User control\obj\Debug\User control.pdb

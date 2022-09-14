@@ -1,0 +1,11 @@
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\bin\Debug\Esercizi Delegate.exe.config
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\bin\Debug\Esercizi Delegate.exe
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\bin\Debug\Esercizi Delegate.pdb
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.csproj.AssemblyReference.cache
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi_Delegate.frmMain.resources
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi_Delegate.Properties.Resources.resources
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.csproj.GenerateResource.cache
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.csproj.CoreCompileInputs.cache
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.exe
+C:\Users\simof\OneDrive\Desktop\Delegate\Esercizi Delegate\Esercizi Delegate\obj\Debug\Esercizi Delegate.pdb
